@@ -1,0 +1,8 @@
+.vscode
+results.html
+CMakeFiles
+*.cmake
+CMakeCache.txt
+Makefile
+serio
+Qt_Serio/Qt_Serio.pro.user

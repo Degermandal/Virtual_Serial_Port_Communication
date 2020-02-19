@@ -1,0 +1,3 @@
+/home/deger/Documents/Workspace/serio/Server/CMakeFiles/edit_cache.dir
+/home/deger/Documents/Workspace/serio/Server/CMakeFiles/rebuild_cache.dir
+/home/deger/Documents/Workspace/serio/Server/CMakeFiles/serio.dir

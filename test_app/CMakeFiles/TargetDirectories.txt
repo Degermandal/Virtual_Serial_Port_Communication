@@ -1,0 +1,3 @@
+/home/deger/Documents/Workspace/serio/test_app/CMakeFiles/edit_cache.dir
+/home/deger/Documents/Workspace/serio/test_app/CMakeFiles/rebuild_cache.dir
+/home/deger/Documents/Workspace/serio/test_app/CMakeFiles/test_app.dir
